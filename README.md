@@ -1,53 +1,16 @@
-# PitchPerfect ⚡
-### AI-Powered Startup Pitch Deck Analyzer
+# React + Vite
 
-> Know if your pitch deck is investor-ready — before you walk in the room.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 What is PitchPerfect?
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-PitchPerfect is an AI-powered web app that analyzes startup pitch decks and gives instant, expert-level feedback. Upload your deck and get scored across 8 investor dimensions in seconds.
+## React Compiler
 
----
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## ✨ Features
+## Expanding the ESLint configuration
 
-- 📂 **PDF Upload** — Upload any pitch deck in PDF format
-- 📊 **AI Scoring** — Scored across 8 investor dimensions
-- 🔍 **Slide Feedback** — Every slide flagged 🟢 Strong / 🟡 Weak / 🔴 Critical
-- 🎤 **Investor Q&A** — Simulate tough investor questions based on your deck
-
----
-
-## 🛠️ Built With
-
-- React + Vite
-- Tailwind CSS
-- PDF.js
-- Gemini AI API
-
----
-
-## 🎯 Built For
-
-AI Application Building Challenge 2026 by **Decoding Data Science**
-Representing **Liwa University** 🎓
-
----
-
-## 📦 How to Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173` in your browser.
-
----
-
-## 👩‍💻 Developer
-
-**Bhadmasree Anantharaman**
-First Year IT Student — Liwa University, UAE
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
