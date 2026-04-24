@@ -1,53 +1,48 @@
-# PitchPerfect ⚡
-### AI-Powered Startup Pitch Deck Analyzer
+PitchPerfect 🎤
 
-> Know if your pitch deck is investor-ready — before you walk in the room.
+AI Startup Pitch Deck Analyzer & Investor Simulator
 
----
+🔗 Live Demo
 
-## 🚀 What is PitchPerfect?
+👉 https://pitchperfect-gryyxi86m-bhadmasrees-projects.vercel.app/
 
-PitchPerfect is an AI-powered web app that analyzes startup pitch decks and gives instant, expert-level feedback. Upload your deck and get scored across 8 investor dimensions in seconds.
+🚨 Problem
 
----
+Startup founders often don’t know how investors evaluate their pitch decks.
+They lack structured feedback and only realize weaknesses after rejection.
 
-## ✨ Features
+💡 Solution
 
-- 📂 **PDF Upload** — Upload any pitch deck in PDF format
-- 📊 **AI Scoring** — Scored across 8 investor dimensions
-- 🔍 **Slide Feedback** — Every slide flagged 🟢 Strong / 🟡 Weak / 🔴 Critical
-- 🎤 **Investor Q&A** — Simulate tough investor questions based on your deck
+PitchPerfect is an AI-powered tool that analyzes pitch decks, scores them across key investor criteria, and helps founders improve through feedback and simulated Q&A.
 
----
-
-## 🛠️ Built With
-
-- React + Vite
-- Tailwind CSS
-- PDF.js
-- Gemini AI API
-
----
-
-## 🎯 Built For
-
-AI Application Building Challenge 2026 by **Decoding Data Science**
-Representing **Liwa University** 🎓
-
----
-
-## 📦 How to Run Locally
-
-```bash
+🎯 What It Does
+Upload a pitch deck (PDF/PPT)
+AI analyzes it slide-by-slide
+Generates structured scores
+Flags weak areas
+Suggests improvements
+Simulates investor Q&A
+⚙️ Features
+📂 Deck Upload & Parsing
+📊 AI Scoring Dashboard
+🧠 Slide-by-Slide Feedback
+🎤 Investor Q&A Simulator
+✨ AI Pitch Deck Generator
+🛠 Tech Stack
+React (Vite)
+JavaScript
+Hugging Face API
+Vercel (Deployment)
+🚀 How to Run Locally
+git clone https://github.com/bhadmasreea20/PitchPerfect
+cd PitchPerfect
 npm install
 npm run dev
-```
+📸 Screenshots
 
-Open `http://localhost:5173` in your browser.
+(Add your screenshots here)
 
----
-
-## 👩‍💻 Developer
-
-**Bhadmasree Anantharaman**
-First Year IT Student — Liwa University, UAE
+🧠 Future Improvements
+Backend integration for better scalability
+More accurate scoring models
+Real investor dataset benchmarking
