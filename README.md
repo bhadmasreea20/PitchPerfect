@@ -5,7 +5,7 @@
 
 🔗 **Live App:** https://pitchperfect-blond.vercel.app/
 
-![PitchPerfect Banner](screenshots/banner.png)
+![PitchPerfect Banner](banner.png)
 
 ---
 
@@ -34,19 +34,19 @@ Upload your PDF → Get scored across 8 investor dimensions → Fix weak slides 
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](landing.png)
 
 ### AI Scoring Dashboard
-![Scoring Dashboard](screenshots/scoring.png)
+![Scoring Dashboard](scoring.png)
 
 ### Slide-by-Slide Feedback
-![Slide Feedback](screenshots/slides.png)
+![Slide Feedback](slides.png)
 
 ### Investor Q&A Simulator
-![QA Simulator](screenshots/qa.png)
+![QA Simulator](qa.png)
 
 ### Pitch Deck Creator
-![Deck Creator](screenshots/creator.png)
+![Deck Creator](creator.png)
 
 ---
 
