@@ -1,48 +1,64 @@
-PitchPerfect 🎤
+# PitchPerfect ⚡
+### AI-Powered Startup Pitch Deck Analyzer
 
-AI Startup Pitch Deck Analyzer & Investor Simulator
+> "Upload your deck. Know your odds."
 
-🔗 Live Demo
+🔗 **Live App:** https://pitchperfect-blond.vercel.app/
 
-👉 https://pitchperfect-gryyxi86m-bhadmasrees-projects.vercel.app/
+![PitchPerfect Banner](screenshots/banner.png)
 
-🚨 Problem
+---
 
-Startup founders often don’t know how investors evaluate their pitch decks.
-They lack structured feedback and only realize weaknesses after rejection.
+## 🚀 What is PitchPerfect?
 
-💡 Solution
+PitchPerfect is an AI-powered web app that analyzes startup pitch decks and gives instant, expert-level feedback — like having a senior investor review your deck for free.
 
-PitchPerfect is an AI-powered tool that analyzes pitch decks, scores them across key investor criteria, and helps founders improve through feedback and simulated Q&A.
+Upload your PDF → Get scored across 8 investor dimensions → Fix weak slides → Practice investor Q&A → Build a new deck from scratch.
 
-🎯 What It Does
-Upload a pitch deck (PDF/PPT)
-AI analyzes it slide-by-slide
-Generates structured scores
-Flags weak areas
-Suggests improvements
-Simulates investor Q&A
-⚙️ Features
-📂 Deck Upload & Parsing
-📊 AI Scoring Dashboard
-🧠 Slide-by-Slide Feedback
-🎤 Investor Q&A Simulator
-✨ AI Pitch Deck Generator
-🛠 Tech Stack
-React (Vite)
-JavaScript
-Hugging Face API
-Vercel (Deployment)
-🚀 How to Run Locally
-git clone https://github.com/bhadmasreea20/PitchPerfect
-cd PitchPerfect
-npm install
-npm run dev
-📸 Screenshots
+---
 
-(Add your screenshots here)
+## ✨ Features
 
-🧠 Future Improvements
-Backend integration for better scalability
-More accurate scoring models
-Real investor dataset benchmarking
+| Feature | Description |
+|---------|-------------|
+| 📊 **8-Dimension AI Scoring** | Scored across Problem, Solution, Market, Business Model, Traction, Team, Competition, Investability |
+| 🔍 **Slide-by-Slide Feedback** | Every slide rated 🟢🟡🔴 with specific feedback |
+| ✍️ **AI Rewrite Suggestions** | Get improved versions of your weakest slides |
+| 🎤 **Investor Q&A Simulator** | Practice tough investor questions based on your actual deck |
+| 📈 **Benchmark Comparison** | Compare your score against Airbnb and Uber seed decks |
+| ✨ **Pitch Deck Creator** | Build a complete 12-slide deck from scratch with AI |
+| 🌙 **Dark / Light Mode** | Clean UI in both themes |
+
+---
+
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing.png)
+
+### AI Scoring Dashboard
+![Scoring Dashboard](screenshots/scoring.png)
+
+### Slide-by-Slide Feedback
+![Slide Feedback](screenshots/slides.png)
+
+### Investor Q&A Simulator
+![QA Simulator](screenshots/qa.png)
+
+### Pitch Deck Creator
+![Deck Creator](screenshots/creator.png)
+
+---
+
+## 🛠️ Built With
+
+- **Frontend** — React + Vite + Tailwind CSS
+- **AI** — Hugging Face Inference API (Llama 3.1 8B)
+- **PDF Parsing** — PDF.js
+- **Hosting** — Vercel
+
+---
+
+## 📦 Run Locally
+
+```bash
