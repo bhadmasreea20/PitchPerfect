@@ -62,3 +62,36 @@ Upload your PDF → Get scored across 8 investor dimensions → Fix weak slides 
 ## 📦 Run Locally
 
 ```bash
+git clone https://github.com/bhadmasreea20/PitchPerfect
+cd PitchPerfect
+npm install
+npm run dev
+```
+
+Open `http://localhost:5173` in your browser.
+
+---
+
+## 🔑 Environment Setup
+
+Add your Hugging Face API key in `src/App.jsx`:
+```js
+const HF_API_KEY = "your_key_here"
+```
+
+---
+
+## 🎯 Built For
+
+AI Application Building Challenge 2026 by **Decoding Data Science**
+Representing **Liwa University**, UAE 🎓
+
+---
+
+## 👩‍💻 Developer
+
+**Bhadmasree Anantharaman**
+First Year IT Student — Liwa University, UAE
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/bhadmasreea20)
