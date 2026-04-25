@@ -93,5 +93,5 @@ Representing **Liwa University**, UAE 🎓
 **Bhadmasree Anantharaman**
 First Year IT Student — Liwa University, UAE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/bhadmareea20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhadmareea20/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/bhadmasreea20)
